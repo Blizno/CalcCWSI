@@ -1,7 +1,7 @@
 '''http://docs.qgis.org/2.6/de/docs/user_manual/processing/scripts.html'''
 '''http://www.qgistutorials.com/de/docs/processing_python_scripts.html'''
 '''Top Hilfe: https://gis.stackexchange.com/questions/193455/qgis-python-script-loop-for-raster-calculator'''
-'''Kleine Aenderungen'''
+'''Kleine Aenderungen Kleine Aenderungen 2'''
 ##CalcCWSI=name
 ##temp=raster
 ##Tair=number 26.8
